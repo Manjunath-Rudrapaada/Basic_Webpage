@@ -1,1 +1,1 @@
-Basic Webpage using only HTML/CSS.
+Basic Webpage using HTML/CSS.
