@@ -1,0 +1,22 @@
+td{
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+#p1{
+    background-color: aquamarine;
+    font-size: 25px;
+    text-align: justify;
+}
+dt{
+    font-size: 4em;
+    background-color: red;
+    text-align: center
+}
+img{
+    width: 100px;
+}
+#img1{
+    width: 600px;
+}
